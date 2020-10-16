@@ -1,0 +1,9 @@
+sdi12.c:30:6:SDI12_Init	8	static
+sdi12.c:35:14:sdi12_calloc_char	16	static
+sdi12.c:40:15:SDI12_GetInfo	32	static
+sdi12.c:77:15:SDI12_QueryAddress	32	static
+sdi12.c:115:15:SDI12_GetData	80	static
+sdi12.c:136:22:getData	32	static
+sdi12.c:189:17:measure	32	static
+sdi12.c:233:22:sendCommandWithResponse	40	static
+sdi12.c:305:5:SDI12_Send_Command	48	static
